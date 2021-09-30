@@ -13,7 +13,7 @@
 
 ## Focused Area:🧐
 ### This project is based on:
-* Flutter-based app:  In this app, the user can tag the tree by locating or going to the exact location and then feeding the latitude and longitude details along with the other parameters. Once the data is stored, it will generate a unique key and a QR code for the same, so that later on we can refer to that tree by that code itself.
+* <b>Flutter</b>-based app:  In this app, the user can tag the tree by locating or going to the exact location and then feeding the latitude and longitude details along with the other parameters. Once the data is stored, it will generate a unique key and a QR code for the same, so that later on we can refer to that tree by that code itself.
 * A data analysis system with a Web App interface to the collected data and apply a machine learning model for prediction of different parameters.
 
 
@@ -30,7 +30,7 @@
 
 ## Project setup:🛠️
 ### For setting up the project in local PC🖥️ 
-Watch the tutorial [Trees Tagging App](https://youtu.be/1KWwgAF0LXY) or follow the steps given below:
+Watch this tutorial [Trees Tagging App](https://youtu.be/1KWwgAF0LXY) or follow the steps given below:
 
 
 1. Make sure you have got flutter (including the command-line tool) and Android Studio installed.
